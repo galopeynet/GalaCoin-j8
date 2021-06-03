@@ -5,7 +5,7 @@ then
 	echo VERSION not defined
 	exit 1
 fi
-PACKAGE=nxt-client-${VERSION}.zip
+PACKAGE=gala-client-${VERSION}.zip
 echo PACKAGE="${PACKAGE}"
 
 FILES="changelogs classes conf html lib src resource addons"

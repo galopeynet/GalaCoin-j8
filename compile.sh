@@ -37,9 +37,10 @@ fi
 
 CP="lib/*${PATHSEP}classes${PATHSEP}javafx-sdk/lib/*"
 SP=src/java/
+APPLICATION="GalerijaCoin"
 
-/bin/rm -f nxt.jar
-/bin/rm -f nxtservice.jar
+/bin/rm -f ${APPLICATION}.jar
+/bin/rm -f ${APPLICATION}service.jar
 /bin/rm -rf classes
 /bin/mkdir -p classes/
 /bin/rm -rf addons/classes
