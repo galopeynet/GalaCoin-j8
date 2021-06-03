@@ -18,7 +18,7 @@ GALA is a cryptocurrency to make the world a better place.
 ## Run it! ##
 
   - click on the GALA icon, or start from the command line:
-  - Unix: `./start.sh`
+  - Unix: `./run.sh`
   - Window: `run.bat`
 
   - wait for the JavaFX wallet window to open
@@ -34,7 +34,7 @@ GALA is a cryptocurrency to make the world a better place.
 ## Troubleshooting the NRS (GALA Reference Software) ##
 
   - How to Stop the NRS Server?
-    - click on GALA Stop icon, or run `./run.sh`
+    - click on GALA Stop icon, or run `./stop.sh`
     - or if started from command line, ctrl+c or close the console window
 
   - UI Errors or Stacktraces?
