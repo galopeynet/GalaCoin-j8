@@ -18,7 +18,7 @@ GALA is a cryptocurrency to make the world a better place.
 ## Run it! ##
 
   - click on the GALA icon, or start from the command line:
-  - Unix: `./start.sh`
+  - Unix: `./run.sh`
   - Window: `run.bat`
 
   - wait for the JavaFX wallet window to open
