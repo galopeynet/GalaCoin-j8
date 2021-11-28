@@ -16,7 +16,7 @@ GALA is a cryptocurrency to make the world a better place.
 
 ----
 ## Run it! ##
-
+    download and unzip file
   - click on the GALA icon, or start from the command line:
   - Unix: `./run.sh`
   - Window: `run.bat`
