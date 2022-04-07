@@ -23,7 +23,7 @@
   "homepage": "https://bitbucket.org/Jelurida/nxt#readme",
   "dependencies": {
     "ajv": "^6.12.6",
-    "async": "^2.1.4",
+    "async": "^3.2.2",
     "crypto-js": "^4.0.0",
     "jquery": "^3.1.1",
     "jsbn": "^0.1.0",
