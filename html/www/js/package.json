@@ -27,7 +27,7 @@
     "crypto-js": "^4.0.0",
     "jquery": "^3.1.1",
     "jsbn": "^0.1.0",
-    "jsdom": "^9.9.1",
+    "jsdom": "^16.5.0",
     "nxt-blockchain": "^1.0.5",
     "pako": "^1.0.4",
     "safe-buffer": "^5.2.1"
